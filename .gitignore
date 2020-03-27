@@ -1,0 +1,5 @@
+build
+imgui.ini
+doxygen/
+output/*
+/cmake-build-debug/
